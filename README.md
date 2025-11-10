@@ -3,10 +3,6 @@
 
 **Author: Ogunseye Oluwajuwon**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Machine Learning](https://img.shields.io/badge/ML-Classification%20%26%20Clustering-orange)
-![Datasets](https://img.shields.io/badge/Datasets-Diabetes%20%26%20Soccer-green)
-
 A comprehensive machine learning project by **Ogunseye Oluwajuwon** demonstrating both supervised classification (Diabetes prediction) and unsupervised clustering (Soccer player segmentation) techniques.
 
 ## 📊 Project Overview
