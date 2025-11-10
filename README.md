@@ -1,15 +1,8 @@
 
 
----
 
-````markdown
+markdown
 # 🧠 Multi-Domain ML Analysis: Diabetes Classification & Soccer Player Clustering
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)
-[![scikit-learn](https://img.shields.io/badge/ML-Scikit--Learn-yellow.svg)](https://scikit-learn.org/)
-[![pandas](https://img.shields.io/badge/Data-Pandas-lightgrey.svg)](https://pandas.pydata.org/)
 
 ---
 
@@ -70,7 +63,7 @@ This project explores two distinct machine learning domains:
 ### ✅ Prerequisites
 Make sure you have **Python 3.10+** installed.
 
-```bash
+bash
 python --version
 ````
 
