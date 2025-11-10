@@ -65,7 +65,7 @@ Make sure you have **Python 3.10+** installed.
 
 bash
 python --version
-````
+
 
 ### ⚙️ Installation Steps
 
@@ -92,7 +92,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn duckdb jupyter
 
 ## 📁 Project Structure
 
-```
 clustering-classification-showcase/
 │
 ├── dataset/
@@ -103,7 +102,7 @@ clustering-classification-showcase/
 ├── ml.ipynb                            # Main analysis notebook
 ├── requirements.txt                    # Project dependencies
 └── README.md                           # Project documentation
-```
+
 
 ---
 
@@ -142,7 +141,7 @@ clustering-classification-showcase/
 ```bash
 # Launch Jupyter Notebook
 jupyter notebook ml.ipynb
-```
+
 
 Then open the notebook and **run all cells** sequentially for full analysis.
 
@@ -217,4 +216,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 > 🧩 *Project developed as part of the Machine Learning Portfolio by Ogunseye Oluwajuwon.*
 
-```
