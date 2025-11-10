@@ -69,7 +69,7 @@ python --version
 
 ### ⚙️ Installation Steps
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/Juwon-Ogunseye/clustering-classification-showcase.git
 cd clustering-classification-showcase
@@ -80,15 +80,13 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-```
 
 ### 📦 Required Packages
 
 If `requirements.txt` isn’t used, install dependencies manually:
 
-```bash
+bash
 pip install pandas numpy matplotlib seaborn scikit-learn duckdb jupyter
-```
 
 ---
 
